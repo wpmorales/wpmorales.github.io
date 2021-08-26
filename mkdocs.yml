@@ -7,3 +7,5 @@ theme:
 nav:
   - Home: 'index.md'
   - About: 'about.md'
+  - Prestashop:
+    - Crear un Theme: 'prestashop/creacion_themes.md'
